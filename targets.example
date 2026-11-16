@@ -1,0 +1,8 @@
+# Lista de sitios web a monitorear
+# Formato: URL|NOMBRE_CORTO|DESCRIPCION
+# El NOMBRE_CORTO se usa como tag en InfluxDB
+# Las líneas que comienzan con # son ignoradas
+
+https://www.example.com|example-main|Sitio principal
+https://app.example.com|example-app|Aplicacion web
+https://api.example.com|example-api|API REST
