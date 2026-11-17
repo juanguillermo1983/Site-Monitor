@@ -1,0 +1,5 @@
+config.sh
+targets
+logs/
+*.log
+diagnostico-*.log
